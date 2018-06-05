@@ -20,7 +20,7 @@ Plugin
   * [imdone-atom](https://atom.io/packages/imdone-atom) - 任务列表插件。
   * [open-terminal-here](https://atom.io/packages/open-terminal-here) - 在编辑器里快速打开终端。
   * [proton-mode](https://atom.io/packages/proton-mode) - 与spacemacs相同的快捷键，非常棒。
-  * [dracula-theme](https://atom.io/packages/dracula-theme) - dracula漂亮的配色。
+  * [dracula-syntax](https://atom.io/packages/dracula-syntax) - dracula漂亮的配色。
   * [filecolor](https://atom.io/packages/filecolor) - 不同文件类型，不同颜色显示，方便查找文件。
   * [golden-ratio](https://atom.io/packages/golden-ratio) - 自动调整窗口大小。
   * [local-history](https://atom.io/packages/local-history) - 本地文件历史，可以返回任何时间保存的文件。
@@ -32,7 +32,6 @@ Plugin
 
   * [Nuclide](http://nuclide.io) - 用于编写 React Native，代码提示各种很厉害的样子。![][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
   * [TypeScript](https://github.com/TypeStrong/atom-typescript) - 支持TypeScript编译。
-  * [run-in-browser](https://atom.io/packages/run-in-browser) - 支持运行网页。
   * [Emmet](https://atom.io/packages/emmet) - 快速编写HTML。![star 4][star4 Icon]
   * [tag](https://atom.io/packages/tag) - Sublime 风格的 HTML 标签自动闭合。
   * [color-picker](https://atom.io/packages/color-picker) - CSS颜色取色器。
@@ -86,7 +85,7 @@ Plugin
 * [Reactjs code snippets](https://github.com/xabikos/vscode-react) - ES6语法高亮，Reactjs开发的代码提示。
 * [Sublime Text Keymap](https://github.com/Microsoft/vscode-sublime-keybindings) - 在VScode中添加Sublime Text 热门快捷键。
 * [Import Cost](https://github.com/wix/import-cost) - 在编辑器中显示import/require包大小。
-* [Git Lens](https://github.com/wix/import-cost) - 增强了内置的Visual Studio代码Git功能。
+* [Git Lens](https://github.com/eamodio/vscode-gitlens) - 增强了内置的Visual Studio代码Git功能。
 
 ## Vim Plugin
 

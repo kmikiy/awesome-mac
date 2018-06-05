@@ -19,7 +19,7 @@ Plugin
   * [imdone-atom](https://atom.io/packages/imdone-atom) - A hackable task-board for TODOs, FIXMEs, HACKs, etc in your code.
   * [open-terminal-here](https://atom.io/packages/open-terminal-here) - Open the Terminal (OSX, Linux) or Command Prompt (Windows) in the given directory via context menu or keyboard shortcut.
   * [proton-mode](https://atom.io/packages/proton-mode) - The same as the spacemacs shortcut keys, very good。
-  * [dracula-theme](https://atom.io/packages/dracula-theme) - Dracula beautiful color。
+  * [dracula-syntax](https://atom.io/packages/dracula-syntax) - Dracula beautiful color。
   * [filecolor](https://atom.io/packages/filecolor) - No file type, no color display, convenient search a file。
   * [golden-ratio](https://atom.io/packages/golden-ratio) - Automatically adjust the window size。
   * [local-history](https://atom.io/packages/local-history) - Local file history, can return any time to save the file。
@@ -29,7 +29,6 @@ Plugin
 * Front-end
   * [Nuclide](http://nuclide.io) - It provides a first-class development environment for React Native, Hack and Flow projects. ![star 4][star4 Icon] [![Open-Source Software][OSS Icon]](https://github.com/facebook/nuclide)
   * [TypeScript](https://github.com/TypeStrong/atom-typescript) - The only TypeScript package you will ever need.
-  * [run-in-browser](https://atom.io/packages/run-in-browser) - Opens current html document in the default browser.
   * [Emmet](https://atom.io/packages/emmet) - The essential tool for web developers. ![star 4][star4 Icon]
   * [tag](https://atom.io/packages/tag) - A Sublime Text-inspired Tag menu and functions for Atom.
   * [color-picker](https://atom.io/packages/color-picker) - A Color Picker.
@@ -82,7 +81,7 @@ Plugin
 * [Reactjs code snippets](https://github.com/xabikos/vscode-react) - Code snippets for Reactjs development in ES6 syntax.
 * [Sublime Text Keymap](https://github.com/Microsoft/vscode-sublime-keybindings) - Popular Sublime Text keybindings for VS Code.
 * [Import Cost](https://github.com/wix/import-cost) - Display import/require package size in the editor.
-* [Git Lens](https://github.com/wix/import-cost) - git blame annotations, code lens, and more.
+* [Git Lens](https://github.com/eamodio/vscode-gitlens) - git blame annotations, code lens, and more.
 
 ## Vim Plugin
 
